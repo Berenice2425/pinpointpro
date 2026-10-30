@@ -166,3 +166,10 @@
 # - **Contribution:** Cloud & DevOps Foundation – Phase 2 Project
 # - **Date:** YYYY2026-10-DD24
 # - **One thing I learned:** I learnt Open source is important my career
+
+
+ ## Enikanoselu Berenice
+# - **GitHub:** @Berenice2425
+# - **Contribution:** Cloud & DevOps Foundation – Phase 2 Project
+# - **Date:** 2026-10-30
+# - **Major Achievement:** In this Project I created a feature branch, made changes, added a document guide on how to contribute to an open source repository, submitted a formal proposal (a pull request) to the original maintainers and wait until it gets merged. Note that a good contributor does all the changes on a new branch-the feature branch, never on the main.
